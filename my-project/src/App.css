@@ -1,0 +1,36 @@
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.n-navbar{
+
+  display: flex;
+   height: 3rem;
+  
+  background-color: rgb(77, 61, 218);
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
+#logo1 {
+  /* overflow: auto; */
+  height: 5vh;
+  width: 5vh;
+  margin-left: 1.5rem;
+  margin-top: 5px;
+  
+  
+}
+li {
+  display: flex;
+  float: left;
+  margin-left: 4rem;
+  list-style: none;
+  text-decoration: none;
+}
+li a{
+  list-style: none;
+  text-decoration: none;
+  color: antiquewhite;
+}

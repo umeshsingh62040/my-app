@@ -1,0 +1,15 @@
+.container-fluid a{
+  height: 4rem;
+ 
+  float: left;
+
+}
+li {
+  list-style: none;
+  text-decoration: none;
+  margin: 4px ;
+  margin-right: 4rem;
+}
+a{
+  text-decoration: none;
+}
