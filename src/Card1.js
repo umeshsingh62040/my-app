@@ -8,7 +8,7 @@ export default function Card1() {
     <div className='card_info'>
     <span className='card_category'>A Netflix orignal series</span>
     <h5 className='card_tittle'> the dark movie</h5>
-    {/* <a href='' target="_blank"></a> */}
+    <a href='' target="_blank"></a>
     <button>watch now</button>
 
     </div>
