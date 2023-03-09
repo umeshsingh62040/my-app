@@ -10,13 +10,13 @@ function Nav1() {
         <Nav.Link href="/home">Home</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="AboutUs">AboutUs</Nav.Link>
+        <Nav.Link href="AboutUs">AboutUs</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="ContactUs">ContectUs</Nav.Link>
+        <Nav.Link href="ContactUs">ContectUs</Nav.Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link eventKey="Services">Services</Nav.Link>
+        <Nav.Link href="Services">Services</Nav.Link>
       </Nav.Item>
     </Nav>
   </div>
